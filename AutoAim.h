@@ -11,7 +11,6 @@
 #include "driver/include/VideoSaver.h"
 #include "armor_detector/include/Detector.h"
 #include "Thread.h"
-#include "trainSVM.h"
 
 #include <string>
 
