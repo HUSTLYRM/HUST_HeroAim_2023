@@ -101,6 +101,6 @@ Jsoncpp
 
 ## 6.其他
 
-基于nanodet-plus修改的四点网络，在docs中记录了作为一个新人如何一步步修改代码，最终成功训练四点模型，测试效果推理速度略逊于YOLOX-nano，但是不失为新手入门四点的一种参考。
+基于nanodet-plus修改的四点网络，在docs中记录了作为一个新人如何一步步修改代码，最终成功训练四点模型，测试效果推理速度不如YOLOX-nano，但不失为新手入门四点的一种参考。
 
 [HUSTLYRM/Nanodet_FP (github.com)](https://github.com/HUSTLYRM/Nanodet_FP)
